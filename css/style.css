@@ -174,7 +174,7 @@ img{
 }
 
 a.btn{
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 
@@ -226,6 +226,9 @@ div {
 
     .work-container {
         flex-direction: column;
+    }  
+
+    .hero .content h4 {
+        padding-top: 0px;
     }
-   
 }
